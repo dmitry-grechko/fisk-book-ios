@@ -1,5 +1,5 @@
 # fisk-book-ios
 
-This project is built using Swift & Swift UI.
+This project is going to be about creating an app that will display information about fishing
 
 This is an education project.
